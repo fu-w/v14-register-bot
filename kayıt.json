@@ -1,0 +1,22 @@
+{
+    "sunucu":"Sunucnuz",
+    "tag":"Tagınız",
+
+
+
+"kayıtkanal":"Kayıt Kanal İd",
+"taglog":"Tag Log İd",
+"genelchat":"Genel Chat Kanal İd"
+,
+
+
+"register":"Kayıtcı Rol İd",
+"erkekrol":"Erkek Rol İd",
+"viprol":"Vip Rol İd",
+"kızrol":"Kız Rol İd",
+"tagrol":"Tag Rol İd",
+"kayıtsız":"Kayıtsız Rol İd"
+
+
+
+}

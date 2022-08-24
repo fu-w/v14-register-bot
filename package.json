@@ -1,0 +1,19 @@
+{
+  "name": "v14-register",
+  "version": "1.0.0",
+  "description": "Furki#0425 Tarafından Yapıldı Daha Fazlası İçin Dm",
+  "main": "furki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Furki#0425",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "nrc.db": "^2.1.0"
+  }
+}
