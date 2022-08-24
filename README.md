@@ -1,7 +1,7 @@
 # v14-register-bot
-10 Starda Botu Atacağım
+10 Starda V14 Guard Botu Atacağım
 
-
+Bottan Örnek Fotograflar 
 ------------------------------
 ![image](https://user-images.githubusercontent.com/74312970/186474321-a1892543-1f4c-49dc-81e4-6272f32d65b0.png)
 
