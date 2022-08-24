@@ -17,3 +17,10 @@ Bana Ulaşa Bileceğiniz Yerler
 [Discord](https://discord.gg/HCReDjXAbu)
 
 [Gmailim](sanctusfurkan@gmail.com)
+
+---------------------------
+
+Botu Başlatmadan Önce 
+
+![image](https://user-images.githubusercontent.com/74312970/186494504-c43da057-9874-4fcb-85eb-1fde674ed588.png)
+
